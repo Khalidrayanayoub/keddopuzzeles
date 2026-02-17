@@ -1,0 +1,5 @@
+{
+  "name": "KiddoWord Puzzle Maker",
+  "description": "A fun and interactive tool for kids to generate word puzzles. Enter three target words, and the app uses Gemini to create riddles and an illustrated background for a 4x4 word grid. Download the final puzzle as a PNG image.",
+  "requestFramePermissions": []
+}
